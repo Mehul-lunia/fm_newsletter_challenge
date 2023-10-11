@@ -47,7 +47,9 @@ Users should be able to:
 ### What I learned
 
 layout and website design, structuring components correctly,the parent-child and sibling relation between elements in css, and the last but not the least best practices when writing css.
-Also my first time venturing into jQuery,used jquery for dom-manipulation and changinf the color of the input field when an incorect email is entered.
+learned a new way to create space around components using padding.Also my first time venturing into jQuery,used jquery for dom-manipulation and changinf the color of the input field when an incorect email is entered.
+
+I am deploying this application using netlify, and it is also my first time using netlify, so that is something i learned through this project.
 
 
 ### Continued development
